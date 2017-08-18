@@ -1,5 +1,5 @@
 PKG_NAME := pika
-URL := https://pypi.python.org/packages/source/p/pika/pika-0.10.0.tar.gz
+URL := http://pypi.debian.net/pika/pika-0.10.0.tar.gz
 
 
 include ../common/Makefile.common
