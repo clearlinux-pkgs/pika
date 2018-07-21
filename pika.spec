@@ -4,7 +4,7 @@
 #
 Name     : pika
 Version  : 0.10.0
-Release  : 21
+Release  : 22
 URL      : http://pypi.debian.net/pika/pika-0.10.0.tar.gz
 Source0  : http://pypi.debian.net/pika/pika-0.10.0.tar.gz
 Summary  : Pika Python AMQP Client Library
