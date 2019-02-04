@@ -1,5 +1,5 @@
 PKG_NAME := pika
-URL = http://pypi.debian.net/pika/pika-0.12.0.tar.gz
+URL = https://files.pythonhosted.org/packages/28/a8/d992bba5423c544cc4e4dbe0e55d9088d5e195513f0501fdeb3a0fa5736b/pika-0.13.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
