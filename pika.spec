@@ -4,7 +4,7 @@
 #
 Name     : pika
 Version  : 1.1.0
-Release  : 35
+Release  : 36
 URL      : https://files.pythonhosted.org/packages/8c/6d/a526ad96ffb8aa0d3ab7e8660eb1c9fc964a02e7624112d70e4b63fb2bb7/pika-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8c/6d/a526ad96ffb8aa0d3ab7e8660eb1c9fc964a02e7624112d70e4b63fb2bb7/pika-1.1.0.tar.gz
 Summary  : Pika Python AMQP Client Library
